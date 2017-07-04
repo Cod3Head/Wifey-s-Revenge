@@ -1,0 +1,80 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\SRive\Downloads\WifeysRevengeDist(1)\Distribution\WifeysRevengeWindows\WifeysRevengeWindows\WifeysRevenge_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\SRive\Downloads\WifeysRevengeDist(1)\Distribution\WifeysRevengeWindows\WifeysRevengeWindows\WifeysRevenge_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\SRive\Downloads\WifeysRevengeDist(1)\Distribution\WifeysRevengeWindows\WifeysRevengeWindows\WifeysRevenge_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\SRive\Downloads\WifeysRevengeDist(1)\Distribution\WifeysRevengeWindows\WifeysRevengeWindows\WifeysRevenge_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\SRive\Downloads\WifeysRevengeDist(1)\Distribution\WifeysRevengeWindows\WifeysRevengeWindows\WifeysRevenge_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\SRive\Downloads\WifeysRevengeDist(1)\Distribution\WifeysRevengeWindows\WifeysRevengeWindows\WifeysRevenge_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\SRive\Downloads\WifeysRevengeDist(1)\Distribution\WifeysRevengeWindows\WifeysRevengeWindows\WifeysRevenge_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\SRive\Downloads\WifeysRevengeDist(1)\Distribution\WifeysRevengeWindows\WifeysRevengeWindows\WifeysRevenge_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\SRive\Downloads\WifeysRevengeDist(1)\Distribution\WifeysRevengeWindows\WifeysRevengeWindows\WifeysRevenge_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\SRive\Downloads\WifeysRevengeDist(1)\Distribution\WifeysRevengeWindows\WifeysRevengeWindows\WifeysRevenge_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\SRive\Downloads\WifeysRevengeDist(1)\Distribution\WifeysRevengeWindows\WifeysRevengeWindows\WifeysRevenge_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\SRive\Downloads\WifeysRevengeDist(1)\Distribution\WifeysRevengeWindows\WifeysRevengeWindows\WifeysRevenge_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.068 seconds
+Platform assembly: C:\Users\SRive\Downloads\WifeysRevengeDist(1)\Distribution\WifeysRevengeWindows\WifeysRevengeWindows\WifeysRevenge_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\SRive\Downloads\WifeysRevengeDist(1)\Distribution\WifeysRevengeWindows\WifeysRevengeWindows\WifeysRevenge_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.493333 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 48ac -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.922666 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 0.292444 ms (FindLiveObjects: 0.055111 ms CreateObjectMapping: 0.012000 ms MarkObjects: 0.220888 ms  DeleteObjects: 0.004000 ms)
+
+Player State reset.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.635111 ms
+AudioSource component missing from this gameobject.  Adding one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1250.
+Total: 0.393333 ms (FindLiveObjects: 0.055555 ms CreateObjectMapping: 0.021777 ms MarkObjects: 0.301333 ms  DeleteObjects: 0.014222 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.199111 ms
+AudioSource component missing from this gameobject.  Adding one.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1510.
+Total: 0.378666 ms (FindLiveObjects: 0.042666 ms CreateObjectMapping: 0.020888 ms MarkObjects: 0.306666 ms  DeleteObjects: 0.008000 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.341777 ms
+
+Unloading 101 unused Assets to reduce memory usage. Loaded Objects now: 209.
+Total: 0.409777 ms (FindLiveObjects: 0.014222 ms CreateObjectMapping: 0.012888 ms MarkObjects: 0.183555 ms  DeleteObjects: 0.198666 ms)
+
+BestFit is only supported for dynamic fonts.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+BestFit is only supported for dynamic fonts.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.529777 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 0.316444 ms (FindLiveObjects: 0.048444 ms CreateObjectMapping: 0.012444 ms MarkObjects: 0.252444 ms  DeleteObjects: 0.002666 ms)
+
